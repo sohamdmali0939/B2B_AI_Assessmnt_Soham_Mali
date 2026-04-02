@@ -1,0 +1,62 @@
+[
+    {
+        "timestamp": "2026-03-31T23:38:00.698927",
+        "type": "traffic",
+        "objects_detected": 5360,
+        "avg_confidence": 0.4684179333497339
+    },
+    {
+        "timestamp": "2026-03-31T23:38:05.805329",
+        "type": "crop",
+        "objects_detected": 1,
+        "avg_confidence": 0.18141071007313045
+    },
+    {
+        "timestamp": "2026-03-31T23:51:50.109899",
+        "type": "traffic",
+        "objects_detected": 5360,
+        "avg_confidence": 0.4684179333497339
+    },
+    {
+        "timestamp": "2026-03-31T23:51:57.483975",
+        "type": "crop",
+        "objects_detected": 1,
+        "avg_confidence": 0.18141071007313045
+    },
+    {
+        "timestamp": "2026-03-31T23:54:06.763907",
+        "type": "traffic",
+        "objects_detected": 5360,
+        "avg_confidence": 0.4684179333497339
+    },
+    {
+        "timestamp": "2026-03-31T23:54:11.593206",
+        "type": "crop",
+        "objects_detected": 1,
+        "avg_confidence": 0.18141071007313045
+    },
+    {
+        "timestamp": "2026-03-31T23:54:54.817374",
+        "type": "traffic",
+        "objects_detected": 5360,
+        "avg_confidence": 0.4684179333497339
+    },
+    {
+        "timestamp": "2026-04-01T10:08:48.465230",
+        "type": "traffic",
+        "objects_detected": 5360,
+        "avg_confidence": 0.4684179333497339
+    },
+    {
+        "timestamp": "2026-04-01T10:08:53.217398",
+        "type": "crop",
+        "objects_detected": 1,
+        "avg_confidence": 0.18141071007313045
+    },
+    {
+        "timestamp": "2026-04-01T10:09:52.611314",
+        "type": "traffic",
+        "objects_detected": 5360,
+        "avg_confidence": 0.4684179333497339
+    }
+]
