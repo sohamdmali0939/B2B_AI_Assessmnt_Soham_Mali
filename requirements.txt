@@ -1,0 +1,26 @@
+# Core
+numpy
+opencv-python
+
+# Deep Learning
+torch
+torchvision
+
+# Object Detection (YOLO / Ultralytics)
+ultralytics
+
+# Visualization
+matplotlib
+
+# Data Handling
+pandas
+
+# MLOps / Utilities
+scikit-learn
+
+# LLM / API
+openai
+
+# Optional (if used in your project)
+tqdm
+Pillow
